@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Penaflorida_MajorActivity3</string>
+    <string name="steps_label">STEPS</string>
+    <string name="status_ready">Ready to start tracking</string>
+    <string name="status_tracking">Tracking your steps…</string>
+    <string name="status_paused">Tracking paused</string>
+    <string name="status_no_sensor">Step Counter sensor not available</string>
+    <string name="status_permission_denied">Activity permission required</string>
+    <string name="status_universal_tracking">Universal Tracking Active</string>
+
+    <string name="btn_start">Start Tracking</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="toast_reset">Counter reset to zero</string>
+    <string name="toast_permission_denied">Permission denied</string>
+
+    <!-- New Light Sensor Strings -->
+    <string name="light_value_default">-- lux</string>
+    <string name="light_condition_default">Light: Unknown</string>
+    <string name="light_condition_dim">Light: Dim</string>
+    <string name="light_condition_normal">Light: Normal</string>
+    <string name="light_condition_bright">Light: Bright</string>
+    <string name="status_light_sensor_not_found">Light sensor not found</string>
+    <string name="status_light_sensor_active">Light sensor active</string>
+    <string name="toast_camera_not_light_sensor">Camera cannot be used as an ambient light sensor.</string>
+
+    <!-- Light Source Indicator and Camera Specific -->
+    <string name="light_source_none">Source: None</string>
+    <string name="light_source_hardware">Source: Hardware Sensor</string>
+    <string name="light_source_camera_estimated">Source: Camera (Estimated)</string>
+    <string name="toast_camera_permission_denied">Camera permission denied. Cannot use camera for light estimation.</string>
+    <string name="toast_camera_not_available">Camera not available for light estimation.</string>
+    <string name="toast_camera_error">Camera error during light estimation.</string>
+    <string name="toast_camera_error_generic">Camera error: </string>
+
+</resources>

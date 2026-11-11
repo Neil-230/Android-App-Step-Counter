@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Neutral colors for dynamic theme fallback -->
+    <color name="neutral_10">#1C1B1F</color>
+    <color name="neutral_20">#313033</color>
+    <color name="neutral_40">#605D62</color>
+    <color name="neutral_60">#938F94</color>
+    <color name="neutral_80">#C9C5CA</color>
+    <color name="neutral_90">#E6E1E5</color>
+
+    <!-- Accent colors -->
+    <color name="step_blue">#007AFF</color>
+</resources>
